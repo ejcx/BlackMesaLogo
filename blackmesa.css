@@ -1,0 +1,26 @@
+#blackmesalogo {
+	width:500px;
+	height:500px;
+	border-radius: 50%;
+	background-color:#FFFFFF;
+	border: 30px solid #000000;
+	margin:0 auto;
+
+
+	background-repeat: no-repeat;
+	background-position: 0 0, 0 240px, 0 390px, 379px 240px;
+	background-size: 250px 250px, 500px 500px, 500px 500px, 500px 500px;
+
+	background-image:
+		-webkit-linear-gradient(left, transparent 0px, transparent 500px ),
+		-webkit-linear-gradient(left, transparent 0px, transparent 144px, #000 145px, #000 379px, transparent 380px),
+		-webkit-linear-gradient(left, #000 0px, #000 500px),
+		-webkit-linear-gradient(45deg, #000000 50%, #ffffff 50%);
+	
+}
+
+#companylettering {
+	font-family:"HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+	width:auto;
+	margin:0 auto;
+}
