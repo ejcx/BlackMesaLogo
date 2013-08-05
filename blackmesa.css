@@ -13,12 +13,12 @@
 
 	background-image:
 		-webkit-linear-gradient(left, transparent 0px, transparent 500px ),
-		-webkit-linear-gradient(left, transparent 0px, transparent 144px, #000 145px, #000 379px, transparent 380px),
+		-webkit-linear-gradient(left, transparent 0px, transparent 144px, #000 145px, #000 378px, transparent 379px),
 		-webkit-linear-gradient(left, #000 0px, #000 500px),
 		-webkit-linear-gradient(45deg, #000000 50%, #ffffff 50%);
 	background-image:
 		-moz-linear-gradient(left, transparent 0px, transparent 500px ),
-		-moz-linear-gradient(left, transparent 0px, transparent 144px, #000 145px, #000 379px, transparent 380px),
+		-moz-linear-gradient(left, transparent 0px, transparent 144px, #000 145px, #000 378px, transparent 379px),
 		-moz-linear-gradient(left, #000 0px, #000 500px),
 		-moz-linear-gradient(45deg, #000000 50%, #ffffff 50%);
 		
