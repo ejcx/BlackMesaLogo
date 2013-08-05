@@ -21,6 +21,12 @@
 
 #companylettering {
 	font-family:"HelveticaNeue-Light", Helvetica, Arial, sans-serif;
-	width:auto;
+	width:800px;
 	margin:0 auto;
+	border-radius: 5px;
+	background:#ffffff;
+	padding:10px;
+	text-align:center;
 }
+
+
